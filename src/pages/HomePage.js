@@ -53,9 +53,9 @@ const HomePage = () => {
       <footer className="homepage-footer">
         <p>&copy; 2025 MindVault | Built for the offline world</p>
         <div className="footer-links">
-          <a href="#">Privacy</a>
-          <a href="#">Terms</a>
-          <a href="#">Contact</a>
+          <a href="/privacy">Privacy</a>
+          <a href="/terms">Terms</a>
+          <a href="/contact">Contact</a>
         </div>
       </footer>
     </div>
