@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mindvault/static/css/main.7680f9c9.css",
-    "main.js": "/mindvault/static/js/main.65a27ec0.js",
+    "main.js": "/mindvault/static/js/main.a387339d.js",
     "service-worker.js": "/mindvault/service-worker.js",
     "index.html": "/mindvault/index.html",
     "main.7680f9c9.css.map": "/mindvault/static/css/main.7680f9c9.css.map",
-    "main.65a27ec0.js.map": "/mindvault/static/js/main.65a27ec0.js.map"
+    "main.a387339d.js.map": "/mindvault/static/js/main.a387339d.js.map"
   },
   "entrypoints": [
     "static/css/main.7680f9c9.css",
-    "static/js/main.65a27ec0.js"
+    "static/js/main.a387339d.js"
   ]
 }
